@@ -1,0 +1,77 @@
+body
+{
+background: #FFCC00;
+}
+
+div.main
+{
+position: absolute;
+left: 150px;
+top: 50px;
+margin: 0;
+padding: 10px;
+background: url('bg.gif');
+width: 716px;
+height: 500px;
+}
+
+
+div.word
+{
+position: absolute;
+left: 80px;
+top: 400px;
+margin: 0;
+padding: 10px;
+font-family: 'Trebuchet MS';
+font-size: 30pt;
+letter-spacing: 5px;
+color: #CC0000;
+}
+
+form.form
+{
+position: absolute;
+left: 80px;
+top: 200px;
+width: 230px;
+}
+
+input.raten
+{
+font-family: Verdana;
+font-size: 10px;
+border: 1px solid #009;
+background: #FFCC00;
+width: 50px;
+}
+
+input.submit
+{
+font-family: Verdana;
+font-size: 10px;
+border: 1px solid #009;
+background: #FFCC00;
+padding: 0px;
+width: 20px;
+}
+
+
+div.feedback
+{
+position: absolute;
+left: 80px;
+top: 100px;
+margin: 0;
+font-family: Verdana;
+font-size: 10pt;
+}
+
+div.hangman
+{
+position: absolute;
+left: 400px;
+top: 20px;
+margin: 0;
+padding: 0px;
+}
